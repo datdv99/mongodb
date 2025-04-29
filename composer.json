@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongodb",
+    "name": "datdv99/mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "keywords": [
         "laravel",
@@ -10,7 +10,7 @@
         "model",
         "moloquent"
     ],
-    "homepage": "https://github.com/jenssegers/laravel-mongodb",
+    "homepage": "https://github.com/datdv99/mongodb",
     "authors": [
         {
             "name": "Jens Segers",
@@ -54,5 +54,7 @@
                 "Jenssegers\\Mongodb\\MongodbQueueServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
